@@ -10,3 +10,7 @@ git config --global user.email"tjtnals22@gmail.com"
 ##day2
 -파이썬 자료형, 변수, 제어문, 함수 설명
 -파이썬 turtle 모듈과 함수 응용하기
+
+##day3
+-'제어문', '함수' 복습
+-'제어문', '함수'를 이용한 터틀런 Ver.1 개발
