@@ -14,3 +14,7 @@ git config --global user.email"tjtnals22@gmail.com"
 ##day3
 -'제어문', '함수' 복습
 -'제어문', '함수'를 이용한 터틀런 Ver.1 개발
+
+##day4
+-파이썬 클래스 기본
+-파이썬 클래스 상속
