@@ -1,7 +1,11 @@
 ﻿# python
-파이썬 시작하기 강의 소스 저장소
-git config --global user.name"Seosoomin"
-git config --global user.email"tjtnals22@gmail.com"
+파이썬 시작하기 강의 전 해야할 일
+
+* git 설치
+* python 설치
+* 아래 명령어를 git bash로 실행하세요
+**'git config --global user.name"Seosoomin"'
+**'git config --global user.email"tjtnals22@gmail.com"'
 
 ## day1
 - 파이썬 프로그래밍 언어 설명
